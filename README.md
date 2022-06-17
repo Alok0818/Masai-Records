@@ -3,7 +3,7 @@ User can maintain the details of the employees.
 
 ## Deployed Link
 
-https://alex-store.vercel.app/
+https://masai-records.vercel.app/
 
 ## Tech Stacks
 
