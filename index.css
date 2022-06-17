@@ -1,0 +1,87 @@
+/* Fill CSS here */
+
+body{
+    width: 100%;
+    background-image: url(https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=2000);
+}
+
+#head{
+    /* border: 1px solid red; */
+    width: 500px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#box{
+    /* border: 1px solid red; */
+    display: flex;
+}
+
+#head-left{
+    border-bottom: 5px solid blue;
+    width: 80%;
+    text-align: center;
+    margin-top: -10px;
+}
+
+#form{
+    /* border: 1px solid red; */
+    width: 20%;
+    height: 550px;
+    padding-left: 50px;
+    padding-top: 20px;
+    margin: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+input, select{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 250px;
+    height: 25px;
+}
+
+#btn{
+    height: 40px;
+    width: 250px;
+    border: none;
+    background-color: rgb(84, 84, 203);
+    color: whitesmoke;
+    font-size: 24px;
+}
+
+#btn:hover{
+    color: black;
+}
+
+.right-table{
+    /* border: 1px solid red; */
+    margin: 20px;
+    width: 70%;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+th{
+    font-size: 20px;
+    border-bottom: 5px solid rgb(84, 84, 203);
+    height: 30px;
+}
+
+
+
+tbody{
+    text-align: center;
+    
+}
+
